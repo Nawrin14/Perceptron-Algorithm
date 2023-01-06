@@ -14,4 +14,4 @@
 
   Here α is the learning rate and 0 < α ≤ 1.
 
-- Three initial weights have to be used (all one, all zero, randomly initialized with seed fixed). For all of these three cases vary the learning rate between 0.1 and 1 with step size 0.1. Create a table which should contain your learning rate, number of iterations, and batch Perceptron for all of the three initial weights. You also have to create a bar chart visualizing your table data.
+- Three initial weights have to be used (all one, all zero, randomly initialized with seed fixed). For all of these three cases vary the learning rate between 0.1 and 1 with step size 0.1. Create a table which should contain your learning rate, number of iterations, and number of updates for all of the three initial weights. You also have to create a bar chart visualizing your table data.
