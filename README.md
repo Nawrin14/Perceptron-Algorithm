@@ -1,5 +1,7 @@
 # Perceptron-Algorithm
 
+Implementation of the Perceptron algorithm for finding the weights of a Linear Discriminant function.
+
 # Tasks
 
 - Take input from “train.txt” file. Plot all sample points from both classes.
